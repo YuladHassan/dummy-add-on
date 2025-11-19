@@ -3,7 +3,7 @@
 Plugin Name: Dummy Contact Form
 Plugin URI: https://example.com/dummy-contact-form
 Description: A simple dummy contact form plugin for testing purposes.
-Version: 4.0.0
+Version: 5.0.0
 Author: Tahasin
 Author URI: https://w3eden.com
 License: GPL2
